@@ -20,4 +20,5 @@ class GameScene: SKScene {
         player1.zPosition = 1.0// Get label node from scene and store it for use later
         addChild(player1)
     }
+    //hello
 }
