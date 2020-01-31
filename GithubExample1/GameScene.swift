@@ -21,4 +21,8 @@ class GameScene: SKScene {
         addChild(player1)
     }
     //hello
+    //adding comment
+    //hello world
+    
+    
 }
